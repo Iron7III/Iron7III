@@ -19,5 +19,5 @@ Hi, im a full stack developer working on a project named Feltax with **@TheBlueB
 [![Discord](https://img.shields.io/badge/Github-000000?color=rgba(0,0,0,0%)&style=for-the-badge&logo=github&logoColor=#5865F2)](https://github.com/Iron7III)
 <hr/>
 
-[<img align="left" width="48%" src="https://github.com/Iron7III/Iron7III/blob/main/metrics-left.svg">](https://feltax.xyz)
-[<img align="right" width="48%" src="https://github.com/Iron7III/Iron7III/blob/main/metrics-right.svg">](https://feltax.xyz)
+[<img align="left" width="45%" src="https://github.com/Iron7III/Iron7III/blob/main/metrics-left.svg">](https://feltax.xyz)
+[<img align="right" width="45%" src="https://github.com/Iron7III/Iron7III/blob/main/metrics-right.svg">](https://feltax.xyz)

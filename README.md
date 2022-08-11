@@ -48,3 +48,5 @@
     <img align="right" width="45%" src="https://github.com/Iron7III/Iron7III/blob/main/metrics-right.svg">
   </a>
 </p>
+<a href="https://discords.com/" >
+            <img src="https://discords.com/bots/api/bot/568435616153337916/widget?theme=dark" title="Visit Feltax listed on Discords.com!" alt="Feltax's Widget Failed to Load" /></a>

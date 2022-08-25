@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Paytone+One&size=40&duration=2000&pause=1000&color=F71A63&center=true&vCenter=true&width=1000&lines=Welcome+to+my+github!" alt="Typing SVG" /></a>
 <p align="center">
   <h3>Iron</h3>
   Hi, im a full stack developer working on a project named Feltax with **@TheBlueBanana**.
